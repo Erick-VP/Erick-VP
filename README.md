@@ -6,7 +6,7 @@
 
 I don't just write code — I consider how my solutions will scale and deliver real business value. Passionate about creating efficient systems and solving complex problems.
 
-Based in Parnaíba/Piauí, Brazil. Currently building **REST vs gRPC** — [A test enviroment for logistic payloads using REST and Proto Buffers].
+Based in Parnaíba/Piauí, Brazil. Currently building **REST vs gRPC** — A test enviroment for logistic payloads using REST and Proto Buffers.
 
 **Available for opportunities.** [Get in touch →](mailto:erickvscletal31@gmail.com)
 
