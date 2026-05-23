@@ -51,7 +51,7 @@ Based in Parnaíba/Piauí, Brazil. Currently building **[REST vs gRPC]** — [A 
 
 ### Let's talk
 
-- 💼 **Looking for opportunities?** I am open to Remote roles. [Email me](mailto:erickvscletal31@gmail.com).
+- 💼 **Hiring?** I am open to Remote roles. [Email me](mailto:erickvscletal31@gmail.com).
 - 💬 **Languages I speak:** English (Passive Fluency/Intermediate), Portuguese (Native), Spanish(Intermediate), German (learning), Italian (Very Beginner).
 
 <sub>Based in Parnaíba, Brazil · GMT-3</sub>
