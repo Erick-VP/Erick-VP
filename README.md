@@ -2,7 +2,7 @@
 
 # Erick V.
 
-**Computer Systems Technology Student | Aspiring Software Engineer |
+**Computer Systems Technology Student | Aspiring Software Engineer**
 
 I don't just write code — I consider how my solutions will scale and deliver real business value. Passionate about creating efficient systems and solving complex problems.
 
